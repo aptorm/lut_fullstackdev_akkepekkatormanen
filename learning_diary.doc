@@ -1,55 +1,38 @@
 Lappeenrannan teknillinen yliopisto
 School of Business and Management
- 
- 
- 
- 
- 
- 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
 Sofware Development Skills
- 
-<Insert name here>, <Insert student number here>
- 
- 
-LEARNING DIARY, <CHOSEN MODULE NAME> MODULE
- 
- 
- 
- 
- 
- 
- 
- 
- 
+Â 
+Tormanen Akke-Pekka, <Insert student number here>
+Â 
+Â 
+LEARNING DIARY, FULL-STACK MODULE
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
+Â 
 LEARNING DIARY
- 
-EXAMPLE STYLE 1
-10.9.2018
+Â 
+NODE INTRODUCTION
+02.9.2023
 
-I checked the general information and understood the main focus of the course, which is to find my passion as a software developer and create a unique project to represent my skills. I chose frontend module because it was the most interesting project offered. I’ve also tried to set up my environment, but I could not decide which code editor I would like to use.  I learned to set up a git repository and did my first commit, everything went smoothly after I clicked the banner to watch intro to GIT.  
- 
-11.9.2018
+I read through the course support materials and the overall study path what is coming for us in the forthcoming course. I started reading on the Node and Express frameworks and watched the tutorial. I got some previous superficial experience on Node and Express from a couple of years ago so I got pretty good refresh on the subject. I haven't really worked with Heroku but it seems simple enough to be used in this course. I also set up my development environment on a windows development image so I am ready to start with the coding. I got also some experience with this set up process and git so it went pretty smoothly all things considered. 
 
-I have chosen VS Code as my code editor for this course, I learned how to set up addons by googling how to do it. I searched the web for best addons and chose the best addons that I think fits me best.  I started to watch the first part of the example project to understand the technologies better.
- 
-I did my second commit but somehow it did not go as I planned. I went to stackoverflow and found quite many threads about version control problems. I was able to figure out what was the problem and continued to watch the first part till the end.
-EXAMPLE STYLE 2
- 
-10.9.2018
- 
-I learned about,
- 
-version control, but mostly it was just refreshing my memory. What I learned was…
- 
-how to develop as a becoming software professional. I find <something> interesting, because…
- 
-how to set up Atom environment with addons. There was one problem that took me a lot of time to solve. The problem was about …
- 
-Etc.
- 
-EXAMPLE STYLE 3
- 
-Freeform.
- 
-Something else, but reasonable. You must document what you have done, learned and when this have happened.
+MONGODB
+03.09.2023
+I took a closer look at the MongoDB. This is a first time I am looking at a non-SQL database in practice. I planned some of the overall database schemes that I could be using and I already see that the initial plans contain some repeated entries in the DB. For example tracking group memberships in user entries but also tracking user memberships in group entries at the same time. It certainly is a stupid way to go around but shows that further look into the non-SQL scheming best practices really need some attention.
 
+PLANNING
+04.9.2023
+
+I planned some themes and high level functions that the final project should posses. I took some more accurate look on the express-handlebars template-engine and node/npm start scripts, production setups, directory structures, etc. I started to do a node/express/handlebars/mongodb skeleton model to represent the overall idea I had been planning. Tomorrow I planned to take a closer look on Angular and what new features and possibilities it could bring. I am especially interested of the differences and how they affect on the forthcoming project.  

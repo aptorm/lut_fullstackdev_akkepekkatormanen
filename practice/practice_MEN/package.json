@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
+    "prod": "echo \"Error, no prod specified\" && exit 1",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -13,6 +15,8 @@
   },
   "dependencies": {
     "express": "^4.18.2",
-    "handlebars": "^4.7.8"
+    "express-handlebars": "^7.1.2",
+    "handlebars": "^4.7.8",
+    "mongodb": "^6.0.0"
   }
 }
