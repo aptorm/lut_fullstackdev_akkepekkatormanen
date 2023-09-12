@@ -36,3 +36,18 @@ PLANNING
 04.9.2023
 
 I planned some themes and high level functions that the final project should posses. I took some more accurate look on the express-handlebars template-engine and node/npm start scripts, production setups, directory structures, etc. I started to do a node/express/handlebars/mongodb skeleton model to represent the overall idea I had been planning. Tomorrow I planned to take a closer look on Angular and what new features and possibilities it could bring. I am especially interested of the differences and how they affect on the forthcoming project.  
+
+ANGULAR 
+08.09.2023
+
+Checked the Angular crash course video. Needs more investigation on how to really get things working. I learned something about directory structures,  services and components, which all were new things for me. After initial confusion I think I got it and the system seems to favor heavily reusable components. I also could connect some things that I have learned earlier such as using a HTTP-client to make CRUD-requests. So, there is much work to be done, so much that I think it is more sensible to start doing the final project now, as the technology is not too difficult but Angular is so different from express/handlebars that I don’t want to do the same things twice.
+
+ANGULAR
+11.09.2023
+
+I learned about the Angular Routing functions, Core-component, Templates, Directives.
+
+ANGULAR
+12.09.2023
+
+I started to develop the actual Angular front-end for the final project. 
