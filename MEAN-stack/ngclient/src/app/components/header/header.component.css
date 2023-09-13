@@ -1,0 +1,13 @@
+.header-container {
+  margin-top: auto;
+  display: flex;
+  justify-content: space-between;
+  border: solid;
+  border-width: 0.1em;
+  border-color: black;
+  border-radius: 0em;
+  padding-right: 1em;
+  margin: 0px;
+  background-color: mediumaquamarine;
+  align-items: center;
+}
